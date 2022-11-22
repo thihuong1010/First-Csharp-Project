@@ -13,7 +13,7 @@ namespace API
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();
 
@@ -27,7 +27,10 @@ namespace API
                 // if do not have any db when starting app, this line of code is run
                 // Will run the migration and create db
                 var context = services.GetRequiredService<DataContext>();
-                context.Database.Migrate();
+                await context.Database.MigrateAsync();
+
+                // make use of Seed method in side the program class
+                await Seed.SeedData(context);
             }
             catch (Exception ex)
             {
@@ -35,7 +38,7 @@ namespace API
                 logger.LogError(ex, "An error occured during migration");
             }
 
-            host.Run();
+            await host.RunAsync();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
