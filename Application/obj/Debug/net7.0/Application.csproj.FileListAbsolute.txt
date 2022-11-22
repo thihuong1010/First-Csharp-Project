@@ -1,0 +1,17 @@
+/Users/huongnguyen/Documents/Reactivities/Application/bin/Debug/net7.0/Application.deps.json
+/Users/huongnguyen/Documents/Reactivities/Application/bin/Debug/net7.0/Application.dll
+/Users/huongnguyen/Documents/Reactivities/Application/bin/Debug/net7.0/Application.pdb
+/Users/huongnguyen/Documents/Reactivities/Application/bin/Debug/net7.0/Domain.dll
+/Users/huongnguyen/Documents/Reactivities/Application/bin/Debug/net7.0/Persistence.dll
+/Users/huongnguyen/Documents/Reactivities/Application/bin/Debug/net7.0/Persistence.pdb
+/Users/huongnguyen/Documents/Reactivities/Application/bin/Debug/net7.0/Domain.pdb
+/Users/huongnguyen/Documents/Reactivities/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/huongnguyen/Documents/Reactivities/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huongnguyen/Documents/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/huongnguyen/Documents/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/huongnguyen/Documents/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/huongnguyen/Documents/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/huongnguyen/Documents/Reactivities/Application/obj/Debug/net7.0/Application.dll
+/Users/huongnguyen/Documents/Reactivities/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/huongnguyen/Documents/Reactivities/Application/obj/Debug/net7.0/Application.pdb
+/Users/huongnguyen/Documents/Reactivities/Application/obj/Debug/net7.0/ref/Application.dll

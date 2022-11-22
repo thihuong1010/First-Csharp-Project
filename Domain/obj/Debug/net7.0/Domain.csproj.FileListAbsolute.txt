@@ -1,0 +1,12 @@
+/Users/huongnguyen/Documents/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/huongnguyen/Documents/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/Users/huongnguyen/Documents/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/huongnguyen/Documents/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/huongnguyen/Documents/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huongnguyen/Documents/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/huongnguyen/Documents/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/huongnguyen/Documents/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/huongnguyen/Documents/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/Users/huongnguyen/Documents/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/huongnguyen/Documents/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/huongnguyen/Documents/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
