@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "VzvyVN8Z7XfZTPYutQpnbbAAJlcXxzuV294T4ZEXgGNCzPh5DlOcDlqvxvN7K5607C7Kwz5vWDuU7uG5/UTOsw==",
+  "dgSpecHash": "RnNk+8nTdTab5tLp9O8aI3Dif3ZjuKCtCP6a71Fn5DgRf0fZXjVgipoT5L6e8tP58jb0MX4isl117RElJxh39A==",
   "success": true,
   "projectFilePath": "/Users/huongnguyen/Documents/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/huongnguyen/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/microsoft.data.sqlite.core/7.0.0/microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0/microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",
+    "/Users/huongnguyen/.nuget/packages/microsoft.entityframeworkcore.design/7.0.0/microsoft.entityframeworkcore.design.7.0.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.0/microsoft.entityframeworkcore.relational.7.0.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/microsoft.entityframeworkcore.sqlite/7.0.0/microsoft.entityframeworkcore.sqlite.7.0.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/7.0.0/microsoft.entityframeworkcore.sqlite.core.7.0.0.nupkg.sha512",
@@ -24,6 +26,7 @@
     "/Users/huongnguyen/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/huongnguyen/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.2/sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.2/sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
@@ -32,6 +35,7 @@
     "/Users/huongnguyen/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/huongnguyen/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/huongnguyen/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
